@@ -14,20 +14,20 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" AUTHOR :"$ku" R4hu14ndre4s5  [CLAY ANONYMOUS]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" Andreas"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 082296615911"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" rahulandreas1999@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
-echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
-echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB 4ndre4s5     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF 4ndre4s5       "$i"|"$i"    |"$cy" G"$i" |"
+echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE 4ndre4s5       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
 echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
@@ -56,9 +56,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
+git clone https://github.com/Rahul4960/fbtrgtv2Aon
 cd fbbrute
-php fb.php
+php v2Aon.php
 fi
 
 if [ $pil = 2 ]
@@ -66,7 +66,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
+git clone https://github.com/Rahul4960/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
@@ -76,9 +76,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IqbalzNoobs/fb-brute
+git clone https://github.com/Rahul4960/fb-brute
 cd fb-brute
-python2 brute.py
+python2 Aon.py
 fi
 
 if [ $pil = 4 ]
@@ -86,9 +86,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/mbf
+git clone https://github.com/Rahul4960/mbf4ndre4s5
 cd mbf
-python2 MBF.py
+python2 mbf4ndre4s5.py
 fi
 
 if [ $pil = 5 ]
@@ -96,9 +96,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/N1ght420/FaceBrute
+git clone https://github.com/Rahul4960/FaceBruteAon
 cd FaceBrute
-python fb.py
+python faceAon.py
 fi
 
 if [ $pil = 6 ]
@@ -106,9 +106,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/facebash.git
+git clone https://github.com/Rahul4960/facebashRahul
 cd facebash
-bash facebash.sh
+bash facebashRahul.sh
 fi
 
 if [ $pil = 7 ]
@@ -116,9 +116,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/EmailVuln
+git clone https://github.com/Rahul4960/EmailVuln
 cd EmailVuln
-python2 vuln.py
+python2 aon.py
 fi
 
 if [ $pil = 8 ]
@@ -126,9 +126,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/ProfileGuardFb
+git clone https://github.com/Rahul4960/ProfileGuardFbAon
 cd ProfileGuardFb
-php guard.php
+php guardAon.php
 fi
 
 if [ $pil = 9 ]
@@ -136,10 +136,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IlayTamvan/Report
+git clone https://github.com/Rahul4960/ReportDiaAon
 cd Report
 unzip Report.zip
-python2 Report.py
+python2 ReportDiaAon.py
 fi
 
 if [ $pil = 10 ]
@@ -147,8 +147,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/AMVengeance/FB-React
-cd FB-React
+git clone https://github.com/Rahul4960/FB-ReactRahul
+cd FB-ReactAon
 ./start
 fi
 
@@ -157,10 +157,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/InfoFB
+git clone https://github.com/Rahul4960/InfoFB
 cd InfoFB
 pip2 install -r requirements.txt
-python2 info.py
+python2 infoAon.py
 fi
 
 if [ $pil = 12 ]
@@ -169,9 +169,9 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 pip2 install mechanize
-git clone https://github.com/Senitopeng/Botkomena.git
+git clone https://github.com/Rahul4960/BotkomenAon
 cd Botkomena
-python2 botkomena.py
+python2 botkomenAon.py
 fi
 
 if [ $pil = 13 ]
@@ -179,9 +179,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/autolike
+git clone https://github.com/Rahul4960/autolikeAon
 cd autolike
-php autolike.php
+php autolikeAon.php
 fi
 
 if [ $pil = 14 ]
@@ -189,9 +189,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/shellphish.git
+git clone https://github.com/Rahul4960/shellphishAon
 cd shellphish
-bash shellphish.sh
+bash shellphishAon.sh
 fi
 
 if [ $pil = 15 ]
@@ -199,9 +199,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/blackeye.git
+git clone https://github.com/Rahul4960/blackeyeAon
 cd blackeye
-bash blackeye.sh
+bash blackeyeAon.sh
 fi
 
 if [ $pil = 16 ]
@@ -209,11 +209,11 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/UndeadSec/SocialFish.git
+git clone https://github.com/Rahul4960/SocialFishAon
 cd SocialFish
 chmod +x *
 pip2 install -r requirements.txt
-python2 SocialFish.py
+python2 SocialAon.py
 fi
 
 if [ $pil = 17 ]
@@ -221,7 +221,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-https://github.com/evait-security/weeman.git
+https:github.com/Rahul4960/weeman.git
 chmod +x *
 python2 weeman.py
 fi
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 082296615911"
+echo $ku"Facebook :"$i" R4hu1 4ndre4s5"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
